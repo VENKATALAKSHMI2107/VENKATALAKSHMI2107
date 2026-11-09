@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi, I'm Venkata Lakshmi! 👋
 
-<!--
-**VENKATALAKSHMI2107/VENKATALAKSHMI2107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Automation Test Engineer | Java | SQL | Selenium
 
-Here are some ideas to get you started:
+- 🌱 Currently learning Automation Testing and Selenium.
+- 💻 Interested in Software Testing and Java Development.
+- 🔍 Practicing problem-solving through LeetCode.
+- 🚀 Always learning and improving my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills
+
+- Java
+- SQL
+- HTML
+- CSS
+- Manual Testing
+- SDLC
+- STLC
+- DLC
+- Agile
+- Selenium WebDriver
+- XPath
+
+📂 Projects
+
+- Job Recruitment System – Java and SQL
+- Loan Prediction – Machine Learning
+- IoT Auto Vehicle Kid Recognition System
+
+📫 Connect with Me
+
+- LinkedIn: "Venkata Lakshmi" (https://www.linkedin.com/in/venkata-lakshmi-badugu-2a2021322/)
+- GitHub: "VENKATALAKSHMI2107" (https://github.com/VENKATALAKSHMI2107)
